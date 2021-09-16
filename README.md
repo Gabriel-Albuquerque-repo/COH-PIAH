@@ -3,7 +3,7 @@
 
 
 Este programa foi desenvolvido para a entrega do projeto final de conclusão do curso: Introdução à Ciência da Computação com Python I. 
-Link: https://www.coursera.org/learn/ciencia-computacao-python-conceitos
+https://www.coursera.org/learn/ciencia-computacao-python-conceitos
 
 
 Dependência interna:
