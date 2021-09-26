@@ -1,21 +1,22 @@
-# Similaridade entre textos - Caso COH-PIAH
+## Similaridade entre textos - COH-PIAH
 > status: Finalizado
 
-
-Este programa foi desenvolvido para a entrega do projeto final de conclusão do curso: Introdução à Ciência da Computação com Python I. 
+- Este programa foi desenvolvido para a entrega do projeto final de conclusão do curso: Introdução à Ciência da Computação com Python I. 
 https://www.coursera.org/learn/ciencia-computacao-python-conceitos
 
+### Linguagem:
+- Python.
 
-Dependência interna:
+### Dependência interna:
 - re.
 
 
-Objetivos:
+### Objetivos:
 - Familiarizar-se com o módulo "re" utilizando, sobretudo, a função "split";
 - Utilizar e interagir com código escrito por terceiros.
 
 
-Observações:
+### Observações:
 - As funções pré-existentes são:
     - le_assinatura,
     - le_textos,
